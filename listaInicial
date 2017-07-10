@@ -1,6 +1,6 @@
 <channel>
 <name>Animes</name>
-<thumbnail>http://i.imgur.com/Op0CuIl.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/arrezende/addon/master/2.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/arrezende/addon/master/listaAnime.xml</externallink>
 <fanart>https://goo.gl/dRv3iL</fanart>
 </channel>
