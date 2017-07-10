@@ -1,8 +1,12 @@
 <layouttype>thumbnail</layouttype>
 
-<channels>
-
-</channels>
+<channel>
+<name>Boruto: Naruto Next Generations</name>
+<thumbnail>https://myanimelist.cdn-dena.com/images/anime/9/84460l.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/Boruto</externallink>
+<fanart>https://4.bp.blogspot.com/-b-gkbr3w1YQ/WNsB1DGAZAI/AAAAAAAAVzo/6t69gOUWqYAAeggia4u1eYWdD__QuBESACLcB/s1600/boruto.JPG</fanart>
+<info></info>
+</channel>
 
 <channel>
 <name>Agatha Christie no Meitantei Poirot to Marple</name>
