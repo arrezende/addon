@@ -1,6 +1,14 @@
 <layouttype>thumbnail</layouttype>
 
 <channel>
+<name>Gangsta</name>
+<thumbnail>https://vignette2.wikia.nocookie.net/gangstamanga/images/0/01/GANGSTA_ANIME_POSTER.png/revision/latest/scale-to-width-down/250?cb=20150702020932</thumbnail>
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/Gangsta</externallink>
+<fanart>http://baconside.com.br/wp-content/uploads/2015/12/maxresdefault.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>Boruto: Naruto Next Generations</name>
 <thumbnail>https://myanimelist.cdn-dena.com/images/anime/9/84460l.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arrezende/addon/master/Boruto</externallink>
