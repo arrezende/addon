@@ -5,4 +5,11 @@
 <fanart>https://goo.gl/dRv3iL</fanart>
 </channel>
 
+<channel>
+<name>Filmes</name>
+<thumbnail>https://raw.githubusercontent.com/arrezende/addon/master/3.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/listaFilme</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</channel>
+
 <channels>
