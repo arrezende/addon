@@ -1,6 +1,14 @@
 <layouttype>thumbnail</layouttype>
 
 <channel>
+<name>Ataque de Titans</name>
+<thumbnail>http://ncdn-a.akamaihd.net/wp-content/uploads/2017/07/Attack-on-Titan-season-2-poster.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/atkTitans</externallink>
+<fanart>http://www.dionisioarte.com.br/wp-content/uploads/2016/04/hajime-isayama-ataque-dos-tit%C3%A3s-manga-anime-dionisio-arte-4.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>Gangsta</name>
 <thumbnail>https://vignette2.wikia.nocookie.net/gangstamanga/images/0/01/GANGSTA_ANIME_POSTER.png/revision/latest/scale-to-width-down/250?cb=20150702020932</thumbnail>
 <externallink>https://raw.githubusercontent.com/arrezende/addon/master/Gangsta</externallink>
