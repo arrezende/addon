@@ -1,6 +1,14 @@
 <layouttype>thumbnail</layouttype>
 
 <channel>
+<name>One Piece</name>
+<thumbnail>http://server8.redecanais.tv/imgs-videos/One%20Piece11.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/one-piece</externallink>
+<fanart>http://vignette1.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>Ataque de Titans</name>
 <thumbnail>http://ncdn-a.akamaihd.net/wp-content/uploads/2017/07/Attack-on-Titan-season-2-poster.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arrezende/addon/master/atkTitans</externallink>
