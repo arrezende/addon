@@ -1,5 +1,7 @@
 <layouttype>thumbnail</layouttype>
+<channels>
 
+</channels>
 <channel>
 <name>Supernatural</name>
 <thumbnail>https://goo.gl/ZQLh4A</thumbnail>
@@ -7,3 +9,6 @@
 <fanart>https://goo.gl/eQKzbj</fanart>
 <info></info>
 </channel>
+<channels>
+
+</channels>
