@@ -22,7 +22,7 @@
 <channel>
 <name>Series</name>
 <thumbnail>https://raw.githubusercontent.com/arrezende/addon/master/3.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/arrezende/addon/master/listaSeries</externallink>
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/listaSeries.xml</externallink>
 <fanart>https://goo.gl/dRv3iL</fanart>
 </channel>
 <channels>
