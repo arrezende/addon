@@ -1,6 +1,14 @@
 <layouttype>thumbnail</layouttype>
 
 <channel>
+<name>Tsubasa Chronicle</name>
+<thumbnail>http://i305.photobucket.com/albums/nn221/ANhan-/1083_Tsubasa_Chronicle_172566.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/tsubasa-chronicle</externallink>
+<fanart>http://wallpaperswide.com/download/tsubasa_reservoir_chronicle_i-wallpaper-1680x1050.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>Fullmetal Alchemist</name>
 <thumbnail>http://www.redecanais.net/imgs-videos/Fullmetal%20Alchemist%20capa.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arrezende/addon/master/full-metal</externallink>
