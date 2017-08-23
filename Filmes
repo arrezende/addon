@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
+<channel>
+<name>Animes</name>
+<thumbnail>https://raw.githubusercontent.com/arrezende/addon/master/2.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/listaAnime.xml</externallink>
+<fanart>https://goo.gl/dRv3iL</fanart>
+</channel>
+
+
 <item>
 <title>Batman Vs Superman: A Origem da Justiça (2016)
 </title>
