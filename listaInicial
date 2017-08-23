@@ -19,6 +19,14 @@
 <fanart>https://goo.gl/dRv3iL</fanart>
 </channel>
 
+<channel>	
+<name>Infantil</name>		
+<thumbnail>https://goo.gl/gQq4hJ</thumbnail>		
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/Infantis</externallink>		
+<fanart>https://goo.gl/dRv3iL</fanart>		
+<info></info>		
+</channel>
+
 <channel>
 <name>Series</name>
 <thumbnail>https://raw.githubusercontent.com/arrezende/addon/master/3.png</thumbnail>
