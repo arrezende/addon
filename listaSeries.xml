@@ -9,6 +9,16 @@
 <fanart>https://goo.gl/eQKzbj</fanart>
 <info></info>
 </channel>
+
+<channel>
+<name>Under The Dome</name>
+<thumbnail>http://bit.ly/2m4uOSR</thumbnail>
+<externallink>https://github.com/arrezende/addon/blob/master/underthedome.xml</externallink>
+<fanart>http://eskipaper.com/images/under-the-dome-7.jpg</fanart>
+<info></info>
+</channel>
+
+
 <channels>
 
 </channels>
