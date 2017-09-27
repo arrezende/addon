@@ -1,6 +1,14 @@
 <layouttype>thumbnail</layouttype>
 
 <channel>
+<name>Vatican Kiseki Chousakan</name>
+<thumbnail>https://myanimelist.cdn-dena.com/images/anime/4/86746l.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/arrezende/addon/master/VaticanKisekiChousakan</externallink>
+<fanart>https://i.ytimg.com/vi/gUWYAHAhF-Q/maxresdefault.jpg</fanart>
+<info></info>
+</channel>
+
+<channel>
 <name>Tsubasa Chronicle</name>
 <thumbnail>http://i305.photobucket.com/albums/nn221/ANhan-/1083_Tsubasa_Chronicle_172566.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/arrezende/addon/master/tsubasa-chronicle</externallink>
