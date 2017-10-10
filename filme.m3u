@@ -1,0 +1,5 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="http://3.bp.blogspot.com/-i4kL39hNl8Q/VRd4-J7_DHI/AAAAAAAAGb8/uRfPjAU8i5o/s300/2.png"
+
+#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="under",1x13
+http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCHMD.mp4
