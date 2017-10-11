@@ -1,5 +1,11 @@
 #EXTM3U
 #PLAYLISTV: pltv-logo="http://3.bp.blogspot.com/-i4kL39hNl8Q/VRd4-J7_DHI/AAAAAAAAGb8/uRfPjAU8i5o/s300/2.png"
 
-#EXTINF:-1 tvg-logo="https://goo.gl/sv30KK" group-title="under",1x13
-http://cdnv4.ec.cx/RedeCanais/RedeCanais/RCFServer1/ondemand/OCHMD.mp4
+#EXTINF:-1 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/07/content_pic.jpg" group-title="Lucifer",3x01
+http://zeus.netcine.tv/httpdelivery/lucifer/03leg/001-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/07/content_pic.jpg" group-title="Lucifer",3x02
+http://zeus.netcine.tv/httpdelivery/lucifer/03leg/002-ALTO.mp4
+
+#EXTINF:-1 tvg-logo="http://ncdn-a.akamaihd.net/wp-content/uploads/2017/05/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SY1000_CR006661000_AL_.jpg" group-title="BIG BANG",11x02
+http://zeus.netcine.tv/httpdelivery/tbbt/11leg/02-ALTO.mp4
